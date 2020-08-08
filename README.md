@@ -1,1 +1,3 @@
 # CloningDemo
+
+.DS_Store
